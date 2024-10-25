@@ -102,7 +102,7 @@ a.active,a:hover{
   }
 
 section{
-    background: url(Cineverse.jpeg)no-repeat;
+    background: url(cineverse.jpeg)no-repeat;
     background-size: cover;
     height: calc(100vh - 80px);
   }
